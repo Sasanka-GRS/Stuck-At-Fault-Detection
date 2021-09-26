@@ -6,8 +6,6 @@ For running codes for part (b), please compile both of them together using
 
       iverilog stuck.v stuck_test.v
       
-And use
+For generating\printing the required outputs, use
 
       ./a.out
-
-For generating\printing the required outputs
