@@ -1,4 +1,4 @@
-# DFT-1
+# Stuck-At-Fault-Detection
 
 ## stuck.v and stuck_test.v correspond to part (b)
 
